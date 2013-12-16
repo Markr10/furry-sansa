@@ -1,5 +1,4 @@
-furry-sansa
-=====
-======
+repository-name
+===========
 
-A test repo
+Description of repository
